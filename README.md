@@ -9,7 +9,7 @@ Este é um programa Python que realiza o scraping de dados de marés de um site 
 - Extração de dados: O programa encontra a tabela desejada no objeto BeautifulSoup e extrai os dados para um dataframe utilizando a biblioteca pandas.
 - Renomeação de colunas: As colunas do dataframe são renomeadas.
 - Exibição de resultados: O programa exibe os dados de marés em forma de tabela.
-- 
+
 # Configuração
 Antes de executar o programa, é necessário instalar as seguintes bibliotecas:
 
